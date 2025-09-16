@@ -1,2 +1,2 @@
-# LCM-and-Tower-of-Hanoi
+# LabExam2_Dingal
 IT5 (2770) Lab Activity
