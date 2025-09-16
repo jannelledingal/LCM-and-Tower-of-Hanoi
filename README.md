@@ -20,6 +20,7 @@ LCM(a, b) = \frac{|a \times b|}{GCD(a, b)}
 - The program checks that the inputs are positive and non-zero before proceeding.
 
 **Sample Run:**
+<img width="204" height="50" alt="image" src="https://github.com/user-attachments/assets/cff9d97d-4d6c-438f-b807-a85fcafba1f4" />
 
 
 
@@ -34,7 +35,7 @@ The second program demonstrates sorting using **Bubble Sort**.
 - The user inputs a list of numbers.  
 - The program shows each comparison, swap, and iteration until the list is sorted.  
 
-**Sample Output 1:**
+**Sample Run:**
+<img width="372" height="209" alt="image" src="https://github.com/user-attachments/assets/af7b791d-da1b-4da7-b8c4-de5668e6e80b" />
 
-**Sample Output 2:**
 
