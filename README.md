@@ -27,15 +27,14 @@ LCM(a, b) = \frac{|a \times b|}{GCD(a, b)}
 
 ---
 
-## Problem 2 – Bubble Sort with Step-by-Step Comparison
+## Problem 2: Sorting with Step-by-Step Output
 **File:** `problem2.py`
 
-This program implements **Bubble Sort** with detailed logs showing each comparison and swap.  
-- The user enters numbers separated by spaces.  
-- The program compares items pair by pair, swapping when necessary.  
-- It prints each iteration until the list is sorted.  
+The second program demonstrates sorting using **Bubble Sort**.  
+- The user inputs a list of numbers.  
+- The program shows each comparison, swap, and iteration until the list is sorted.  
 
-This helps visualize how Bubble Sort works step by step.
+**Sample Output 1:**
 
-**Sample Run:**
+**Sample Output 2:**
 
